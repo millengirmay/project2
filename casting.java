@@ -12,7 +12,7 @@ public class casting {
 
         int num = 15;
         double dou = num;
-        System.out.pprintln(dou);
+        System.out.println(dou);
 
     }
 }
